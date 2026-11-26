@@ -48,7 +48,7 @@ Curated by [Rocking Book Covers](https://www.rockingbookcovers.com), a book cove
 - [Book Cover Specs](https://github.com/rockingbookcovers/book-cover-specs) - Cheat sheet of cover sizes for KDP, IngramSpark and ebook stores, with the spine-width formula and a print-ready checklist.
 - [KDP Cover Calculator](https://kdp.amazon.com/cover-calculator) - Amazon's official tool for full-wrap paperback and hardcover cover templates.
 - [IngramSpark Cover File Creation](https://help.ingramspark.com/hc/en-us/articles/35306346735245-Cover-File-Creation) - IngramSpark's cover requirements and template generator.
-- Lousy Book Covers (https://www.lousybookcovers.com) - a collection of bad book covers and criticisms of them, useful stuff to learn 
+- [Lousy Book Covers](https://www.lousybookcovers.com) - Collection of bad self-published book covers with short critiques. Useful for learning what to avoid.
 - [Rocking Book Covers](https://www.rockingbookcovers.com) - Custom book cover design and 3,000+ exclusive premade covers across every genre.
 
 ## ISBNs and Identifiers
