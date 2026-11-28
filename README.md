@@ -26,6 +26,7 @@ Curated by [Rocking Book Covers](https://www.rockingbookcovers.com), a book cove
 - [Scrivener](https://www.literatureandlatte.com/scrivener/overview) - Long-form writing app for organizing chapters, research and notes in one project.
 - [Plottr](https://plottr.com) - Visual plotting and series-planning tool with timelines and story templates.
 - [Reedsy Studio](https://reedsy.com/studio) - Free online writing and book-formatting editor.
+- [ImagineYourBook](https://www.imagineyourbook.com/) - AI drafting tool that turns a premise or outline into a full first draft (5,000 to 120,000 words) with a cover, exported as Word, EPUB or Markdown. Paid, with a 7-day trial.
 
 ## Editing and Proofreading
 
